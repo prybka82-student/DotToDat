@@ -1,5 +1,5 @@
 # DotToDat
-A simple converter changing graphs coded in .dot files to .dat files that may be used with GNU MathProg solvers
+A simple converter in C# changing graphs coded in .dot files to .dat files that may be used with GNU MathProg solvers
 
 # Example .dot file
 
@@ -32,18 +32,11 @@ end;
 
 # Commands 
 
-C#
-
 ```
 c:\>DotToDat.exe test.dot
 c:\>Data successfully saved as test.dat
 ```
 
-Python
-
-```
-c:\>python dotToMathProgDat.py test.dot
-```
 
 
 
