@@ -21,7 +21,7 @@ graph G {
 }
 ```
 
-# Example .dat file after convertion
+# Example .dat file after conversion
 
 ```
 data;
