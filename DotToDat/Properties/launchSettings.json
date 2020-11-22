@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotToDat": {
+      "commandName": "Project",
+      "commandLineArgs": "test.dot"
+    }
+  }
+}
